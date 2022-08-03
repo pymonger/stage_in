@@ -138,3 +138,5 @@ output_nb.ipynb
 stage_out-inputs.yml
 workflow-inputs.yml
 sqsconfig.py
+inputs
+stage_in-http-inputs.yml
